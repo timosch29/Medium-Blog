@@ -1,3 +1,10 @@
+
+
+# Graphs used in the article:
+
+<a href="https://timosch29.github.io/Medium_Data_Transformation_with_R/Normal_Distributions.html" title="Normal Distributions">Normal Distributions</a>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/timosch29/Medium-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
