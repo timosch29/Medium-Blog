@@ -2,7 +2,7 @@
 # set seed for reproducibility
 set.seed(123)
 
-# make 1000 standard normal distributed data points
+# make 100 standard normal distributed data points
 x <- rnorm(100)
 
 # calcualte density 
