@@ -32,6 +32,8 @@ p2<- plot_ly(x = x_2, type = "histogram", name = "Histogram") %>%
             layout(title= "Data with Normal Distribution \n µ = 15 and  σ = 5.5") %>% 
             hide_legend()
 
+
+# plot both plots either via plotly subplot or crosstalk bscols
 #subplot(p1, p2, shareX =TRUE, shareY = TRUE, which_layout = 2)
 
 crosstalk::bscols(p1,p2)
