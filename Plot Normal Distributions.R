@@ -39,8 +39,8 @@ p<-subplot(p1, p2, shareY = TRUE)
 
 # give each subplot a title
 p %>% layout(annotations = list(
-            list(x = 0.2 , y = 1.05, text = "Data with Standard Normal Distribution \n µ = 0 and  σ = 1", showarrow = F, xref='paper', yref='paper'),
-            list(x = 0.8 , y = 1.05, text = "Data with Normal Distribution \n µ = 15 and  σ = 5.5", showarrow = F, xref='paper', yref='paper'))
+            list(x = 0.1 , y = 1.05, text = "Data with Standard Normal Distribution \n µ = 0 and  σ = 1", showarrow = F, xref='paper', yref='paper'),
+            list(x = 0.85 , y = 1.05, text = "Data with Normal Distribution \n µ = 15 and  σ = 5.5", showarrow = F, xref='paper', yref='paper'))
 )
             
             
