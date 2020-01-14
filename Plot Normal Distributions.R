@@ -18,7 +18,7 @@ p1<- plot_ly(x = x, type = "histogram", name = "Histogram") %>%
             
 
 
-# make 1000 standard normal distributed data points
+# make 100 normal distributed data points
 x_2 <- rnorm(100, mean=15, sd=5.5)
 
 # calcualte density 
